@@ -5,6 +5,11 @@
     <string name="fragment1">Fragment1</string>
     <string name="fragment2">Fragment2</string>
     <string name="fragment3">Fragment3</string>
+    
+    <string name="direction">Direction</string>
+    <string name="orientation">Orientation</string>
+    <string name="transformer">Page Transformer</string>
+
 
 
 </resources>
